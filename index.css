@@ -72,4 +72,35 @@ footer p {
 
 .nubank [alt="logo-nubank"] {
     width: 20%;
+    display: flex;
+    align-items: center;
+
+}
+
+.escrita-nubank{
+    display: flex;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    color: #ffffff ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    justify-content: center;  
+    margin-top: 15%;
+
+}
+
+.logo-nubank{
+    display: flex;
+    width: 30%;
+    margin-left: 37%;       
+    
+}
+
+.insta{
+    width: 15%;
+    margin-left: 43%;
+    margin-top: 15%;
+}
+
+.contact{
+    background-color: black;
 }
