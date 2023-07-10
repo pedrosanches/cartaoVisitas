@@ -96,12 +96,17 @@ footer p {
 }
 
 .insta{
-    width: 15%;
-    margin-left: 43%;
-    margin-top: 15%;
+    width: 16%;
+    margin-left: 60%;
+    margin-top: 13%;
 }
 
 .contact{
     background-color: black;
 }
 
+.whats{
+    width: 17%;
+    margin-top: -25%;
+    margin-left: 25%;
+}
